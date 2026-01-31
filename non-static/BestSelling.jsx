@@ -15,7 +15,7 @@ const BestSelling = () => {
   return (
     <div id="BS-d01">
       <SEO />
-      <div id="BS-d02">Best Selling</div>
+      <div id="BS-d02">Best Sellings</div>
       <div id="BS-d03">
         <div id="BS-d04">Showing 8 of 12 products</div>
         <div id="BS-d05" onClick={() => (window.location.href = "/shop")}>
